@@ -95,6 +95,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaaS Pegasus](https://www.saaspegasus.com/) - Django
 - [Djaodjin](https://djaodjin.com/) - Django, open-source
 - [The SaaS boilerplate by Apptension](https://www.apptension.com/saas-boilerplate) - Django, React
+- [ReadyKit](https://readykit.dev/) - Django
 
 ### Go
 
