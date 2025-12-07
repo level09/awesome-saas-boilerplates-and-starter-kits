@@ -87,6 +87,7 @@ Browse the available boilerplates and starter kits by category:
 - [Enferno Framework](https://enferno.io/) - Flask, open-source
 - [GeniePy](https://geniepy.com/) - FastAPI
 - [PySaaS](https://pysaas.io/) - Python, Pynecone
+- [ReadyKit](https://readykit.dev) - Python, Flask
 
 ### Django
 
@@ -95,7 +96,6 @@ Browse the available boilerplates and starter kits by category:
 - [SaaS Pegasus](https://www.saaspegasus.com/) - Django
 - [Djaodjin](https://djaodjin.com/) - Django, open-source
 - [The SaaS boilerplate by Apptension](https://www.apptension.com/saas-boilerplate) - Django, React
-- [ReadyKit](https://readykit.dev/) - Django
 
 ### Go
 
